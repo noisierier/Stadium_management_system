@@ -1,0 +1,11 @@
+体育馆项目源代码分为多个.C文件和.H文件，.H文件均为声明对应.C文件的函数的头文件，接下来对.C文件进行一些简要说明：
+main.c 主函数文件
+menu.c 主菜单文件
+user.c 用户主体逻辑文件
+Administrator.c 管理员主体逻辑文件
+site_search.c 场馆查询功能文件
+rank.c 统计排序文件
+book_site.c 预定场地文件
+addsite.c 添加场地文件
+info_management.c 信息管理系统文件
+delay.c 延时函数文件
